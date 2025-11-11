@@ -1,0 +1,201 @@
+{
+  "version": "4.6.2",
+  "name": "Combined APT Heatmap - mobile-attack",
+  "domain": "mobile-attack",
+  "description": "Techniques used across APT groups in mobile-attack",
+  "gradient": {
+    "colors": [
+      "#ffffff",
+      "#ff0000"
+    ],
+    "minValue": 0,
+    "maxValue": 5
+  },
+  "techniques": [
+    {
+      "techniqueID": "S0421",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1655.001",
+      "score": 3,
+      "comment": "Used by 3 APT groups"
+    },
+    {
+      "techniqueID": "T1636.003",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1633.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1628.003",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1420",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1429",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1533",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1512",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1426",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1636.004",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1417.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1632.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1430",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1406",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1521.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1627.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1407",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1451",
+      "score": 2,
+      "comment": "Used by 2 APT groups"
+    },
+    {
+      "techniqueID": "T1660",
+      "score": 5,
+      "comment": "Used by 5 APT groups"
+    },
+    {
+      "techniqueID": "T1422",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1126",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0505",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1195",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0577",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0182",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0399",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1437.001",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "T1676",
+      "score": 2,
+      "comment": "Used by 2 APT groups"
+    },
+    {
+      "techniqueID": "T1409",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0555",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S0314",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1185",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1082",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1077",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1128",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    },
+    {
+      "techniqueID": "S1243",
+      "score": 1,
+      "comment": "Used by 1 APT groups"
+    }
+  ]
+}
