@@ -11,6 +11,12 @@ These heatmaps are generated from MITRE ATT&CK's publicly available data and ref
 
 ## Files
 - **`combined_apt_heatmap.json`**: Contains the combined heatmap data for Enterprise, Mobile, and ICS ATT&CK layers.
+- **`Enterprise_APT_Heatmap_layer.json`**: Layer data for Enterprise ATT&CK.
+- **`ICS_APT_Heatmap_layer.json`**: Layer data for ICS ATT&CK.
+- **`Mobile_APT_Heatmap_layer.json`**: Layer data for Mobile ATT&CK.
+- **`enterprise.svg`**: Enterprise ATT&CK heatmap image.
+- **`ics.svg`**: ICS ATT&CK heatmap image.
+- **`mobile.svg`**: Mobile ATT&CK heatmap image.
 
 ## Usage
 
@@ -21,8 +27,9 @@ To view the heatmaps, you can upload the `combined_apt_heatmap.json` file to the
 3. Upload the `combined_apt_heatmap.json` file.
 4. Explore the techniques used by APT groups across the three domains: Enterprise, Mobile, and ICS.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Alternatively, you can view the combined heatmap layer directly using the following link:
+
+[View Combined APT Heatmap in ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/#layerURL=https://raw.githubusercontent.com/HussainFathy/apt-technique-heatmap/refs/heads/main/combined_apt_heatmap.json)
 
 ## Contribution
 Feel free to open issues or pull requests to contribute to the project or improve the visualizations.
